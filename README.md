@@ -11,7 +11,7 @@ npm start
 ## FrontEnd
 
 ```javascript
-cd FronEnd
+cd Frontend
 npm install
 npm run serve
 ```
@@ -20,5 +20,5 @@ npm run serve
 ```javascript
 npm run build
 ```
-Build files can be found in the dist folder.
+Build files can be found in the dist folder.These files can be directly served.
 
