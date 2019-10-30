@@ -1,7 +1,11 @@
 # Setup
 ## BackEnd
 
-Add config file from the example file given.
+Add config file from the example file given. Then fill in the config details in the file.
+```javascript
+cd BackEnd/config
+cp eg.config.json config.json
+```
 ```javascript
 cd BackEnd
 npm install
