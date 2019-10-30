@@ -11,6 +11,8 @@ cd BackEnd
 npm install
 npm start
 ```
+Server running at port 3000
+http://localhost:3000
 
 ## FrontEnd
 
@@ -19,6 +21,8 @@ cd Frontend
 npm install
 npm run serve
 ```
+Server running at port 8080
+http://localhost:8080
 
 #### Build for production
 ```javascript
